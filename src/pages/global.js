@@ -1,0 +1,9 @@
+export const __backgroundColor = "#e3c0e2";
+export const __backgroundColorCard = "#fff";
+export const __textColor = "#2e2e2e";
+export const __backgroundColorButtom = "#593f60";
+export const __colorButtom = "#f6f5f6";
+export const __backgroundColorInput = "#fff";
+export const __colorTextSecundary = "#7e7e7e";
+export const __colorTextTitle = "#13131a";
+export const __colorTextSubtitle = "#41414d";
